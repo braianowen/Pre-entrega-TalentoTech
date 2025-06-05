@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "inicio": "node src/index.js"
+    "start": "node src/index.js"
   },
   "author": "owen braian",
   "license": "ISC"

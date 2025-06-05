@@ -21,20 +21,20 @@ El programa se ejecuta desde la terminal usando los siguientes comandos:
 
 ### Ver todos los productos
 ```bash
-npm run inicio GET productos
+npm run start GET productos
 ```
 
 ### Ver un producto específico
 ```bash
-npm run inicio GET productos/1
+npm run start GET productos/1
 ```
 
 ### Crear un producto
 ```bash
-npm run inicio POST productos "Camiseta" 29.99 "ropa"
+npm run start POST productos "Camiseta" 29.99 "ropa"
 ```
 
 ### Eliminar un producto
 ```bash
-npm run inicio DELETE productos/1
+npm run start DELETE productos/1
 ```
